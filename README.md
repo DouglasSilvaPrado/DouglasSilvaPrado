@@ -13,6 +13,7 @@
   <img align="center" alt="Douglas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Douglas-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Douglas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Douglas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="right" height="100em alt="Douglas-Avatar" src="https://lh3.googleusercontent.com/VwptjVwkR6mkQuEir7eesPbbTy7DPhMrjTLDSFWfAFYBI8rOBHjMam4in3T4_bfZan6yyf2MbW4GH7OFXn8U3s-DYaNq82AbufU326QErdtuB9ebYDqTt8kVQ_ToV-eRAq2yZLOi2kV5Zk_pt1JdKLP7ebQNfGalN3IQyh0-c_PXLaqmE9owu7J6a2yiTXWs2jKjY_jYyNw7onq4JWm4vkDx7WRt_QMXS_VBhnbAUv3LHcufKBsxuqvliIVDvMLMd-GvkrrGc7eivbAKQZVBVxwcGAdz1UfN0cU4avfOoPjfmhSZvMFYQYGjz6SLecdsncHEGa9_imYUyeBRDnfSfYGeXbMxoqmzPu7aCpj7U-RGA9Vgf2qc4Lz73et46l_sT1xtZ9aGZmHtndFsUTYayeIIF65W7otJND_KgyXnHNu6n8SFqeUDN4nLPbgyOMoml9KDmdG0VfiSiZKHH9zq4DW1bAvxkQWohQja4o_80jGvhdUNCeO6he6wFzu6pBWRnXQSdRSZJr-V5s5oQsUxCJXWqtzSaCoM_c6Zkf20RMHuULAnx3qos54JXo-QaS8xf57FDIiPHOwXkcV0dmZgji5ROv4HSRKi1NhbzQc7EqdfJwwtUOR5baJoCPmuSdclaTn7lm2_u8EHHopqByN5JS84FUZKWxqpEsHcbU-3msD6g_Sp8-KLkv7QUVcIa2iM_JMUQTJh3w9sVnxHTFEfHQ=s500-no?authuser=2">
 </div>
   
