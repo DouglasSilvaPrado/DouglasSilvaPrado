@@ -14,6 +14,7 @@
   <img align="center" alt="Douglas-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Douglas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Douglas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Douglas-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="right" height="100em alt="Douglas-Avatar" src="https://lh3.googleusercontent.com/8Jlu5D4D1s2laW_lpcrY5Hd2NqbBk0zLf1e99_24i_r0ZRmJesSSpOHKYy3xfGsHmcafUZqJKN1XFVEWMs9iN6cIfDlkMHcm3D3vC28Hn6CC0gVzTsyOpcdwxj0pjoGSmwa_9Mi5HKByMnmuDXp6q45WMQLBaw40DWsofFxPmgbxUbkJo5TmvpCA_y2S0YgTieA3hyhULLJC7F8V1uQSe87SgtkXNFpaICJVKIFGzckZRE7wSg8_U9S9NES2VXlapnN7jgEHV3mAfgqOxASMJcNbwtVNoADDwpB-BGDhKnFIurabiVAfJA3M2tjz5bI_3zvP22LfVI1D_uD0pL72H1W3qfr5alhoWQl6A4vpMiScC84E4UCF7_TYGkIHQcRiBBoqhXgFUW7Yl6KrpTtP-4D4jL2C14Sn8vxdbYGzE9cowXnKZ8AT5RZUU9tZ9p557ouG-LtuduTNjoBAR-xkLEh_xOAV1aXrajBAH3Qd0vLJxpOwE48OrtfcX6VGwKcCgmN58fC4wIv_WmEfkFtlEVEdPAADoRa9O6e_m8sOrFcOD4yHXbEraGpxKwUobqSvEJxVmR_PzgaBGWX1JMicQFemeNcCRzwV0m4HmgL41jiuKGjj7J3tvAWK40JBgVYD5IlQJ-Y7uhCwSQwHelRu4S69jowUMFHP_FuPoWwaJnuz4RPj1dYeQ3dtvdhN-31QvLHTOOsEJyenPSp9yb47lQ=s500-no?authuser=2">
 </div>
   
