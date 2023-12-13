@@ -23,7 +23,7 @@
   <img align="center" alt="Douglas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Douglas-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Douglas-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Douglas-Cypress" height="30" width="40" src="https://www.cypress.io/images/layouts/navbar-brand.svg">
+  <img align="center" alt="Douglas-Cypress" height="30" width="40" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png?raw=true">
   <img align="center" alt="Douglas-QT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
   <img align="right" height="100em alt="Douglas-Avatar" src=".github/workflows/avatar.gif">
 </div>
